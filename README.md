@@ -2,7 +2,7 @@
 
 In-depth documentation on this SDK is available at [uniswap.org](https://uniswap.org/docs/v2/SDK/getting-started/).
 
-This modifies uniswap-sdk's UniswapV2Factory address. The new address for allswap is  `0x02504D4D6a69E1Abc5Fb13E2B2c63332AE1a3119`.
+This modifies uniswap-sdk's UniswapV2Factory address. The new address for allswap is  `0xeB86672942D305A1B372f631d5895E482aB9b0eb`.
 
 ## Running tests
 
