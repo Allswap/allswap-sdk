@@ -1,14 +1,14 @@
 {
-  "name": "@allswap/sdk",
+  "name": "allswap-sdk",
   "license": "MIT",
-  "version": "2.0.0",
+  "version": "2.0.1-m",
   "description": "🛠 An SDK for building applications on top of Allswap.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/Allswap/allswap-sdk",
+  "repository": "https://github.com/Allswap/allswap-sdk.git",
   "keywords": [
     "uniswap",
     "ethereum",
